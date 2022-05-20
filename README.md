@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anna
-- 👀 I’m interested in Linguistics, natural language processing, language modeling 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in NLP, websites and NDL
+- 🌱 I’m currently learning Python, git and some other things
+- 💞️ I’m looking to collaborate on anything, just hit me up :)
 - 📫 How to reach me: anna.stein@hhu.de
 
 <!---
