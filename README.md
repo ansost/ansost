@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Anna
-- 👀 I’m interested in NLP, websites and NDL
-- 🌱 I’m currently learning Python, git and some other things
-- 💞️ I’m looking to collaborate on anything, just hit me up :)
-- 📫 How to reach me: anna.stein@hhu.de
+- 👋 Hi, I’m Anna:)
+- 👀 I’m interested in NLP, building websites, NDL and all things copmutational linguistics
+- 🌱 I’m currently learning Python, git and how to work with Jekyll 
+- 💞️ If you have something youd like to collaborate on, just hit me up :)
+- 📫 How to reach me: anna.stein@hhu.de or [@ansost](https://twitter.com/_ansost_) on Twitter
+
+[![@ansost's Holopin board](https://holopin.io/api/user/board?user=ansost)](https://holopin.io/@ansost)
 
 <!---
 ansost/ansost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
