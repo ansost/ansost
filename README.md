@@ -75,10 +75,9 @@ I am currently learning:
 <div align="center">
 	<table>
 		<tr></tr>
-			<td><code><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="html" title="html"/></code></td>
+			<td><code><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" title="website"/></code></td>
       <td><code><img src="https://img.shields.io/badge/EMAIL-blue.svg" alt="email" title="email"/></code></td>
-			<td><code><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="Pytorch" title="Pytorch"/></code></td>
-			<td><code><img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" title="Julia"/></code></td>
+			<td><code><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" title="ResearchGate"/></code></td>
 		</tr>
 	</table>
 </div>
