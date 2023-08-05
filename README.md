@@ -71,13 +71,13 @@ I am currently learning:
 	</table>
 </div>
 
-## 🤝 Connect with me
+## 🤝 Connect with me <a href="url">link text</a>
 <div align="center">
 	<table>
 		<tr></tr>
-			<td><code><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" title="website"/></code></td>
-      <td><code><img src="https://img.shields.io/badge/EMAIL-blue.svg" alt="email" title="email"/></code></td>
-			<td><code><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" title="ResearchGate"/></code></td>
+			<td><code><a href="https://ansost.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" title="website"/></a></code></td>
+                        <td><code><a href="mailto:anna.stein@hhu.de"><img src="https://img.shields.io/badge/EMAIL-blue.svg" alt="email" title="email"/></a></code></td>
+			<td><code><code><a href="https://www.researchgate.net/profile/Anna-Stein-10"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" title="ResearchGate"/></a></code></td>
 		</tr>
 	</table>
 </div>
